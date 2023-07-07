@@ -22,6 +22,10 @@ const getFestivals = require("../index");
     console.log(await getFestivals())
 })()
 ```
+Then just run this in your terminal
+```
+node build/index.js
+```
 
 ## Functions
 
