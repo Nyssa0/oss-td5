@@ -3,9 +3,6 @@
 # Introduction
 The purpose of this package is to browse through French festivals.
 
-# Get random number
-This is a package
-
 ## Local development
 ```
 npm install
