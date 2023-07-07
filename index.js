@@ -63,6 +63,5 @@ async function getFestivalsWithLocation(chosenRegion) {
         })
         .catch(error => console.error('Error : ', error));
 }
-module.exports = getFestivals
-// module.exports = summerFestivals
-// module.exports = getFestivalsWithLocation
+
+module.exports = getFestivals, summerFestivals, getFestivalsWithLocation
